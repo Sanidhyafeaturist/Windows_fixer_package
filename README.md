@@ -29,6 +29,6 @@ These instructions will help you get the Windows fixer package up and running on
 ### Installation
 - Download the zip file.
 - extract the zip file.
-- you will see 3 batch files
+- you will see 6 batch files
 - excute one of them
 - now take a popcorn and enjoy :)
